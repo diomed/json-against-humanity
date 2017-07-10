@@ -4,6 +4,11 @@ Finally, [Cards Against Humanity](https://cardsagainsthumanity.com/) as plain te
 
 [CONTRIBUTING](./CONTRIBUTING.md)
 
+
+
+![.](http://static.boredpanda.com/blog/wp-content/uploads/2017/07/cards-against-humanity-disney-edition-1-5963209b605c3__700.jpg)
+
+![..](http://static.boredpanda.com/blog/wp-content/uploads/2017/07/cards-against-humanity-disney-edition-2-5963201aa73dc__700.jpg)
 ## Fine Print
 
 Please buy [Cards Against Humanity](https://cardsagainsthumanity.com/). They deserve your gross, germ-covered money more than you do.
